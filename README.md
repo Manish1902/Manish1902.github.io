@@ -1,3 +1,2 @@
-# Manish1902.github.io
-Sample
+#Sample
 Hello 
